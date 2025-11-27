@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Akingbade Serifat Bukola</h1>
-<h3 align="center">Python Developer • Frontend Developer • Tech Creative</h3>
+<h3 align="center">Python Developer • Data Analyst • Frontend developer • Tech Creative</h3>
 
 <!-- Typing SVG Animation -->
 <p align="center">
@@ -14,8 +14,13 @@
 ---
 
 # 🖤 About Me  
-I’m a passionate **Python Developer** and **Frontend Engineer** dedicated to building clean, user-friendly, and functional applications.  
-I love working with **Python, Flask, React, HTML, CSS, Git**, and I enjoy creating beautiful UI designs in **Figma**.
+I’m a passionate **Python Developer** Data aanalyst ** and **Frontend Engineer** dedicated to building clean, user-friendly, passionate about transforming raw data into clear, actionable insights and functional applications.  
+I love working with **Python, SQL | Excel | Dashboards, Flask, React, HTML, CSS, Git**, and I enjoy creating beautiful UI designs in **Figma** and also I specialize in:
+	•	Excel / Google Sheets for cleaning and visualization
+	•	Python (Pandas, Matplotlib, Seaborn) for deeper analytics
+	•	SQL for querying relational databases
+	•	Power BI / Data Studio Dashboards for reporting
+	•	Problem-solving, data storytelling & business insights
 
 ✨ I believe in continuous learning  
 ✨ I enjoy solving real-world problems  
@@ -49,7 +54,23 @@ I love working with **Python, Flask, React, HTML, CSS, Git**, and I enjoy creati
 
 ---
 
-# 🚀 Featured Projects
+Portfolio Projects
+
+🔹 1. Sales Performance Analysis (Excel + Python)
+🔹 2. Customer Segmentation Insights (Google Sheets)
+🔹 3. Product Performance Dashboard (Power BI / Excel)
+🔹 4. SQL Project — Online Store Sales Analysis (SQL)
+🔹 5. SQL Project — HR Employee Data Analysis
+
+Tools: SQL
+Highlights:
+✔ Salary distribution analysis
+✔ Department productivity
+✔ Gender workforce ratio
+✔ Longest-serving employees
+
+# 🚀Other Featured Projects
+
 
 ### 🔹 **ViTA Tech Website (Portfolio)**  
 A stunning personal portfolio website built with **HTML, CSS, JavaScript**, featuring hover animations, project cards, and responsive design.  
@@ -71,10 +92,10 @@ A collection of powerful Python scripts for automation, file management, and dai
 ---
 
 # 🎓 Certificates  
-
-- 📜 Python Programming — *coming soon*  
-- 📜 Frontend Development — *coming soon*  
-- 📜 UI/UX Design (Figma) — *coming soon*  
+	• Data Analytics Foundations – Google
+	•	Excel for Data Analysis – Coursera
+	•	SQL Basics – FreeCodeCamp
+	•	Python for Data Analysis – Udemy
 
 ---
 
