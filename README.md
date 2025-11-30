@@ -4,17 +4,17 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Akingbade Serifat Bukola</h1>
-<h3 align="center">Python Developer • Data Analyst • Frontend developer • Tech Creative</h3>
+<h3 align="center">Python Developer • Data Analyst • Frontend developer • cloud computing • Tech Creative</h3>
 
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=22&center=true&vCenter=true&width=500&lines=Python+Developer;Frontend+Developer;React+%7C+Flask+%7C+JavaScript;Problem+Solver+%7C+Tech+Creative;Welcome+to+My+GitHub+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=22&center=true&vCenter=true&width=500&lines=Python+Developer;Frontend+Developer;React+%7C+Flask+%7C+JavaScript;Problem+Solver+%7C+Cloud+computing+Tech+Creative;Welcome+to+My+GitHub+Profile!">
 </p>
 
 ---
 
 # 🖤 About Me  
-I’m a passionate **Python Developer** Data aanalyst ** and **Frontend Engineer** dedicated to building clean, user-friendly, passionate about transforming raw data into clear, actionable insights and functional applications.  
+I’m a passionate **Python Developer** Data aanalyst ** and **Frontend Engineer UIUX** Cloud computing **dedicated to building clean, user-friendly, passionate about transforming raw data into clear, actionable insights and functional applications.  
 I love working with **Python, SQL | Excel | Dashboards, Flask, React, HTML, CSS, Git**, and I enjoy creating beautiful UI designs in **Figma** and also I specialize in:
 	•	Excel / Google Sheets for cleaning and visualization
 	•	Python (Pandas, Matplotlib, Seaborn) for deeper analytics
@@ -96,6 +96,8 @@ A collection of powerful Python scripts for automation, file management, and dai
 	•	Excel for Data Analysis – Coursera
 	•	SQL Basics – FreeCodeCamp
 	•	Python for Data Analysis – Udemy
+	•	UI/UX with frigma– Udemy
+
 
 ---
 
