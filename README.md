@@ -4,18 +4,18 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Akingbade Serifat Bukola</h1>
-<h3 align="center">Python Developer • Data Analyst • Frontend developer • cloud computing • Tech Creative</h3>
+<h3 align="center">Python Developer • Data Analyst  • Tech Creative</h3>
 
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=22&center=true&vCenter=true&width=500&lines=Python+Developer;Frontend+Developer;React+%7C+Flask+%7C+JavaScript;Problem+Solver+%7C+Cloud+computing+Tech+Creative;Welcome+to+My+GitHub+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=22&center=true&vCenter=true&width=500&lines=Python+Developer;Problem+Solver+%7C+Tech+Creative;Welcome+to+My+GitHub+Profile!">
 </p>
 
 ---
 
 # 🖤 About Me  
-I’m a passionate **Python Developer** Data aanalyst ** and **Frontend Engineer UIUX** Cloud computing **dedicated to building clean, user-friendly, passionate about transforming raw data into clear, actionable insights and functional applications.  
-I love working with **Python, SQL | Excel | Dashboards, Flask, React, HTML, CSS, Git**, and I enjoy creating beautiful UI designs in **Figma** and also I specialize in:
+I’m a passionate **Python Developer** and Data aanalyst **dedicated to building clean, user-friendly, passionate about transforming raw data into clear, actionable insights and functional applications.  
+I love working with **Python, SQL | Excel | Dashboards, Flask, Git**, I specialize in:
 	•	Excel / Google Sheets for cleaning and visualization
 	•	Python (Pandas, Matplotlib, Seaborn) for deeper analytics
 	•	SQL for querying relational databases
@@ -33,22 +33,17 @@ I love working with **Python, SQL | Excel | Dashboards, Flask, React, HTML, CSS,
 ### **💻 Programming Languages**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ### **🧩 Frameworks & Libraries**
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 ### **🛠 Development Tools**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
@@ -71,12 +66,6 @@ Highlights:
 
 # 🚀Other Featured Projects
 
-
-### 🔹 **ViTA Tech Website (Portfolio)**  
-A stunning personal portfolio website built with **HTML, CSS, JavaScript**, featuring hover animations, project cards, and responsive design.  
-🌐 Live Demo:  https://vita-tec.netlify.app/ 
-💻 GitHub Repo: https://github.com/prinsterlizzy-jpg/ViTA-Tech-site  
-
 ---
 
 ### 🔹 **CBT Exam System for Schools**  
@@ -92,12 +81,12 @@ A collection of powerful Python scripts for automation, file management, and dai
 ---
 
 # 🎓 Certificates  
-	• Data Analytics Foundations – Google
+	•  Data Analytics Foundations – Google
 	•	Excel for Data Analysis – Coursera
+	•   Data fundamenter – IBM Skill Builder
 	•	SQL Basics – FreeCodeCamp
 	•	Python for Data Analysis – Udemy
-	•	UI/UX with frigma– Udemy
-
+	•	Data science and management – IBM Skill Builder
 
 ---
 
