@@ -1,7 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://github.com/prinsterlizzy-jpg/ViTA-Tech-site/raw/refs/heads/main/6D5F178F-A3CB-409F-9459-CAD87F1BFD6C.png" width="100%" />
-</p>
 
 <h1 align="center">👋 Hi, I'm Akingbade Serifat Bukola</h1>
 <h3 align="center">Python Developer • Data Analyst  • Tech Creative</h3>
