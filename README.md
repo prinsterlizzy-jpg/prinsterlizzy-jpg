@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <h1 align="center">👋 Hi, I'm Akingbade Serifat Bukola</h1>
-<h3 align="center">Python Developer • Data Analyst  • Tech Creative</h3>
+<h3 align="center">Digital Marketing • Data Analyst  • Tech Creative</h3>
 
 <!-- Typing SVG Animation -->
 <p align="center">
@@ -11,7 +11,7 @@
 ---
 
 # 🖤 About Me  
-I’m a passionate **Python Developer** and Data aanalyst **dedicated to building clean, user-friendly, passionate about transforming raw data into clear, actionable insights and functional applications.  
+I’m a passionate **Python Developer** and Digital Marketing **dedicated to building clean, user-friendly, passionate about transforming raw data into clear, actionable insights and functional applications.  
 I love working with **Python, SQL | Excel | Dashboards, Flask, Git**, I specialize in:
 	•	Excel / Google Sheets for cleaning and visualization
 	•	Python (Pandas, Matplotlib, Seaborn) for deeper analytics
